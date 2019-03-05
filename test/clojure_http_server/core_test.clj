@@ -1,4 +1,4 @@
-(ns clojure-simple-http.core-test
+(ns clojure-http-server.core-test
   (:require [clojure.test :refer :all]
             [clojure-simple-http.core :refer :all]))
 
